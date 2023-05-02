@@ -1,16 +1,4 @@
 # color_panel
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230502_202410](https://user-images.githubusercontent.com/121868302/235704690-1f6d97a0-9a28-4409-abed-4b99bcebb4cf.png)
+![Screenshot_20230502_202434](https://user-images.githubusercontent.com/121868302/235704746-ce2405f1-cb2a-4761-934b-097f145bc72d.png)
